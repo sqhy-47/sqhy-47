@@ -8,5 +8,6 @@ I’m passionate about creating interactive experiences and digital solutions th
 Outside of coding and design, I make art, play video games and enjoy working on Rokr mechanical construction kits. 
 
 Let's connect!
+<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/angela-gao-569a7a212)
 
